@@ -8,8 +8,7 @@ Authors@R:
            email = "francisco@fpuna.edu.py",
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: Simplemente un ejemplo para poder crear un paquete de Ejemplo
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
