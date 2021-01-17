@@ -2,16 +2,22 @@
 % Please edit documentation in R/fbind.r
 \name{fbind}
 \alias{fbind}
-\title{Fbind()}
+\title{Fbind() Une dos factores}
 \usage{
 fbind(a, b)
 }
 \arguments{
-\item{b}{}
+\item{a}{factor}
+
+\item{b}{factor}
 }
 \value{
-
+factor
 }
 \description{
-Fbind()
+Crea un factor a partir de 2 factores nuevos
+haciendo la union de los 2 factores unidos
+}
+\examples{
+fbind(iris$Species[c(1, 51, 101)], PlantGrowth$group[c(1, 11, 21)])
 }

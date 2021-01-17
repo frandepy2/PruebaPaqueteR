@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "francisco@fpuna.edu.py",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: Simplemente un ejemplo para poder crear un paquete de Ejemplo
+Description: Simplemente un ejemplo para poder crear un paquete de Ejemplo.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
